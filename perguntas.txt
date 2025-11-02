@@ -1,0 +1,41 @@
+1. Comparação de Preços
+Quais mercados oferecem os preços mais baixos em geral?
+Existe uma diferença significativa de preços entre mercados de diferentes regiões da cidade?
+Quais produtos têm maior variação de preço entre os mercados?
+
+
+2. Análise de Produtos
+Quais categorias de produtos (ex.: alimentos, bebidas, higiene) têm maior variação de preço?
+Existe uma relação entre o tipo de produto e a frequência de promoções?
+Quais produtos são consistentemente mais caros ou mais baratos?
+
+
+3. Tendências Geográficas
+Mercados em bairros mais centrais têm preços mais altos do que mercados em bairros periféricos?
+Existe uma correlação entre a localização do mercado e o preço médio dos produtos?
+
+
+
+4. Promoções e Descontos
+Quais mercados oferecem mais promoções?
+Qual é o impacto médio das promoções no preço dos produtos?
+Existe um padrão sazonal para promoções (ex.: feriados, finais de semana)?
+
+
+5. Acessibilidade e Economia
+Qual é o custo médio de uma cesta básica em diferentes mercados?
+Quais mercados oferecem a melhor relação custo-benefício para os consumidores?
+Existe uma diferença de preços significativa entre redes de mercados grandes e pequenos?
+
+
+6. Insights Temporais (se houver dados históricos)
+Como os preços variaram ao longo do tempo?
+Existe uma tendência de aumento ou redução de preços em determinados períodos?
+Quais produtos são mais afetados por sazonalidade?
+
+
+
+7. Outras Perguntas Interessantes
+Existe uma relação entre o tamanho do mercado (número de produtos) e os preços?
+Quais mercados têm maior diversidade de produtos?
+Como os preços em Curitiba se comparam com outras cidades (se houver dados comparativos)?
