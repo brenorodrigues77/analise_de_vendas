@@ -1,0 +1,22 @@
+perguntas para responder com SQL
+
+Iniciante
+
+Qual a média de preço (preço regular) dos produtos pesquisados?
+Quantos produtos diferentes foram pesquisados em cada categoria?
+Quais são as três categorias com maior quantidade de pesquisas?
+Qual o menor e o maior preço regular de cada categoria?
+
+Intermediário
+
+Qual a média de preço dos produtos por bairro e categoria?
+Para cada rede, quantos produtos únicos foram pesquisados no último mês disponível?
+Quais empresas (id_empresa) pesquisaram produtos com preço acima da média geral?
+Quais produtos tiveram maior variação de preço entre bairros?
+
+Avançado
+
+Como evoluiu o preço médio dos produtos por categoria ao longo do tempo?
+Quais categorias apresentaram aumento de preço mês a mês, nos últimos 6 meses?
+Quais redes vendem produtos com preços consistentemente abaixo da média, considerando todas as categorias?
+Existe correlação entre bairros e categorias com preços mais altos? (usar CTEs e subqueries para análise)
