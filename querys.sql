@@ -27,6 +27,13 @@ select count(*) as total_linhas
 from dados.produtos_pesquisa
 where categoria = 'NaN';
 
+-- Exibir todas as linhas dos produtos cuja categoria é 'NaN'
 select * 
 from dados.produtos_pesquisa
 where categoria = 'NaN';
+
+-- Qual a média de preço (preço regular) dos produtos pesquisados, agrupados por bairro e categoria?
+select bairro, categoria, AVG(preco_regular) as preco_medio_regular
+from dados.produtos_pesquisa
+group by bairro, categoria
+order by bairro, categoria;
